@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinearLayout1</string>
+    <string name="textView1">Nombre</string>
+    <string name="textButton2">Edit Profile</string>
+    <string name="stringH1">Followers</string>
+    <string name="stringH2">Following</string>
+    <string name="stringH3">Estrellita</string>
+</resources>
